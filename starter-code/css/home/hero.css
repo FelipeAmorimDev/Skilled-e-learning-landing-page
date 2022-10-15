@@ -22,7 +22,9 @@
   max-width: 50ch;
 }
 
-
+.hero-content p {
+  max-width: 34ch;
+}
 
 @media (max-width:1200px) {
   .hero-section {
@@ -50,6 +52,7 @@
   .hero-content h1 {
     max-width: 15ch;
   }
+
   .hero-bg {
     position: static;
 

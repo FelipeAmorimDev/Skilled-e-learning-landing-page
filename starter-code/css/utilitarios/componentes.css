@@ -1,8 +1,31 @@
-.botao{
-  
-  background: linear-gradient(0deg, rgba(240,42,166,1) 0%, rgba(255,111,72,1) 100%);
+.botao {
+  color: var(--cor-6);
+  background: linear-gradient(0deg, rgba(240, 42, 166, 1) 0%, rgba(255, 111, 72, 1) 100%);
   padding: 14px 32px;
   border-radius: 100px;
   display: inline-block;
- 
+}
+
+.botao:hover,
+.botao:active {
+  background-color: var(--cor-1);
+}
+
+
+.botao-2 {
+  color: var(--cor-6);
+  background: linear-gradient(0deg, #4851ff 0%, #f02aa6 100%);
+  padding: 14px 32px;
+  border-radius: 100px;
+  display: inline-block;
+}
+
+.botao-2:hover,
+.botao-2:active {
+  opacity: .6;
+}
+
+.botao-3:hover,
+.botao-3:active {
+  opacity: .6;
 }

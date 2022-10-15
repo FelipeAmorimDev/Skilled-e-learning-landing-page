@@ -1,51 +1,57 @@
-.headingXL{
+.headingXL {
   font-family: 'Plus Jakarta Sans', sans-serif;
   font-size: 3.5rem;
   line-height: 1.25;
 }
-.headingL{
+
+.headingL {
   font-family: 'Plus Jakarta Sans', sans-serif;
   font-size: 2.5rem;
   line-height: 1.3;
 }
-.headingM{
+
+.headingM {
   font-family: 'Plus Jakarta Sans', sans-serif;
   font-size: 2rem;
   line-height: 1.25;
 }
-.headingS{
+
+.headingS {
   font-family: 'Plus Jakarta Sans', sans-serif;
   font-size: 1.5rem;
   line-height: 1.2;
 }
 
-.bodyM{
+.bodyM {
   font-family: 'Plus Jakarta Sans', sans-serif;
   font-size: 1.12rem;
   line-height: 1.55;
   font-weight: 500;
 }
-.bodyM-bold{
+
+.bodyM-bold {
   font-family: 'Plus Jakarta Sans', sans-serif;
   font-size: 1.1rem;
   font-weight: 700;
   line-height: 1.33;
 }
-.bodyS{
+
+.bodyS {
   font-family: 'Plus Jakarta Sans', sans-serif;
   font-size: 1rem;
   line-height: 1.75;
 }
 
 
-@media (max-width:1200px){
-  .headingXL{
-    
+@media (max-width:1200px) {
+  .headingXL {
+
     font-size: 2.5rem;
     line-height: 1.26;
   }
-  .bodyM{
-  font-size: 1rem;
-  line-height: 1.6;
+
+  .bodyM {
+    font-size: 1rem;
+    line-height: 1.6;
   }
 }

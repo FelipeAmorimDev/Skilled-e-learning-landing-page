@@ -1,13 +1,14 @@
-.header {
+.footer-bg {
+  background-color: var(--cor-2);
+}
+
+.footer-content {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   max-width: 1000px;
   margin: 0 auto;
   padding: 20px;
-  align-items: center;
-}
 
-.header a {
-  background: var(--cor-2);
 
 }
