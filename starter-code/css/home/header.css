@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+  align-items: center;
+}
+.header a{
+  background: var(--cor-2);
+  
+}
